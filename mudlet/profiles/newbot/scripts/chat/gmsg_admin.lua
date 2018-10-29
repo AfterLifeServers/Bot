@@ -28,7 +28,7 @@ function gmsg_admin()
 	tmp = {}
 
 	if botman.debugAll then
-		debug = true -- this should be true
+		debug = true -- this should be true or false, or something.
 	end
 
 -- ################## Admin command functions ##################
